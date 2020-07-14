@@ -22,20 +22,8 @@
             rating their own lives. This data is correlated with other life factors such as birth rates per woman, days of sunshine, and crime.  </p>
       </div>
     </div>
-    <div class="row">
-      <div class="col-md-2">
-        <div class="well">
-          <h5>Country:</h5>
-          <select id="selDataset" onchange="optionChanged(this.value)"></select>
-        </div>
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h3 class="panel-title">Country Stats</h3>
-          </div>
-          <div id="sample-metadata" class="panel-body"></div>
-        </div>
-      </div>
       <div id= "bar-plot" class="col-md-5"></div>
+      <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
         <script type="text/javascript">
         window.PLOTLYENV=window.PLOTLYENV || {};
           // Incoming data is internally referred to as incomingData
@@ -86,7 +74,8 @@
     </div>
     <div class="row">
       <div class="col-md-12">
-        <div id="bubble"></div>
+        <img class="nav-ufo" src="static/images/happy.png">
+        <div id="bar-plot"></div>
       </div>
     </div>
     <div>
@@ -102,10 +91,9 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://www.gstatic.com/charts/loader.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="/Users/veronicavalencia/Desktop/Project2Group7/data/data.json"></script>
   <script src="static/js/app.js"></script>
   <script src="static/js/comparison.js"></script>
   <script src="https://d3js.org/d3.v5.min.js"></script>
-  
+
 </body>
 </html>
