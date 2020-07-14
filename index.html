@@ -44,12 +44,22 @@
         <div id="bubble"></div>
       </div>
     </div>
+    <div>
+      <select id="topics" onchange="selection(this.value)">
+        <option value="Global Innovation Index">Global Innovation Index</option>
+        <option value="Average Births Per Woman">Average Births Per Woman</option>
+        <option value="Number of Days of Sunshine">Number of Days of Sunshine</option>
+      </select>
+    </div>
+    <div class="col-md-6" id="comparison_chart"></div>
   </div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://www.gstatic.com/charts/loader.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="static/js/app.js"></script>
   <script src="/Users/veronicavalencia/Desktop/Project2Group7/data/data.json"></script>
+  <script src="static/js/app.js"></script>
+  <script src="static/js/comparison.js"></script>
   
 </body>
 </html>
