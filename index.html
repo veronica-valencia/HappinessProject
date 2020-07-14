@@ -8,9 +8,6 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
     <link rel="stylesheet" href="static/css/style.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link rel="stylesheet" href="static/css/style.css">
-    <link rel="stylesheet" href="static/css/d3Style.css">
   </head>
   <body>
   <div class="container">
@@ -25,60 +22,26 @@
             rating their own lives. This data is correlated with other life factors such as birth rates per woman, days of sunshine, and crime.  </p>
       </div>
     </div>
-      <div id= "bar-plot" class="col-md-5"></div>
-      <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
-        <script type="text/javascript">
-        window.PLOTLYENV=window.PLOTLYENV || {};
-          // Incoming data is internally referred to as incomingData
-        d3.json("data/data.json").then((incomingData) => {
-          function filterCountryHappiness(Country) {
-            return Country.Happiness;
-          }
-
-          // Use filter() to pass the function as its argument
-          var filteredCountry = incomingData.filter(filterCountryHappiness);
-
-          //  Check to make sure your are filtering your movies.
-          console.log(filteredCountry);
-          
-          // Use the map method with the arrow function to return all the filtered movie titles.
-          var country = filteredCountry.map(country =>  country.Country);
-
-          // Use the map method with the arrow function to return all the filtered movie metascores.
-          var happiness = filteredCountryHappiness.map(country => country.Happiness);
-
-          // Check your filtered metascores.
-          console.log(ratings);
-
-          // Create your trace.
-          var trace = {
-            x: Country,
-            y: Happiness,
-            type: "bar"
-          };
-
-          // Create the data array for our plot
-          var data = [trace];
-
-          // Define the plot layout
-          var layout = {
-            title: "Countries Happiness Index",
-            xaxis: { title: "Country" },
-            yaxis: { title: "Happiness Score"}
-          };
-
-          // Plot the chart to a div tag with id "bar-plot"
-          Plotly.newPlot("bar-plot", data, layout);
-        });;</script> 
-        </div>
-      <div class="col-md-5">
-        <div id="newPlot"></div>
+    <div class="container">
+      <div class="col-md-12">
+        <img class="nav-ufo" src="all.png" width="1000">
       </div>
     </div>
-    <div class="row">
+    <div class="container">
       <div class="col-md-12">
-        <img class="nav-ufo" src="static/images/happy.png">
-        <div id="bar-plot"></div>
+        <img class="nav-ufo" src="regression.png" width="1000" vertical-align=middle>
+      </div>
+    </div>
+    <div class="container">
+      <div class="col-md-12">
+        <img class="nav-ufo" src="Top5Countries.png" width="1000">
+      </div>
+    </div>
+  
+    <div class="container">
+      <div class="col-md-12">
+        <p> Countries with the Highest Happiness Index Map</p>
+        <img class="nav-ufo" src="static/images/happy.png" width="1000">
       </div>
     </div>
     <div>
@@ -88,15 +51,15 @@
         <option value="Number of Days of Sunshine">Number of Days of Sunshine</option>
       </select>
     </div>
-    <div class="col-md-6" id="comparison_chart"></div>
+    <div class="col-md-6" id="comparison_chart" width="1000"></div>
   </div>
+
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://www.gstatic.com/charts/loader.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="static/js/app.js"></script>
   <script src="static/js/comparison.js"></script>
-  <script src="https://d3js.org/d3.v5.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
