@@ -1,0 +1,1218 @@
+[
+ {
+   "Country": "Switzerland",
+   "Happiness": 7.48,
+   "Crime": 21.6,
+   "Days of Sunshine(2015)": 97,
+   "Birth per Woman": 1.52,
+   "Innovation": 67.2
+ },
+ {
+   "Country": "Iceland",
+   "Happiness": 7.494,
+   "Crime": 23.36,
+   "Days of Sunshine(2015)": 48,
+   "Birth per Woman": 1.67,
+   "Innovation": 51.5
+ },
+ {
+   "Country": "Denmark",
+   "Happiness": 7.6,
+   "Crime": 25.1,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.74,
+   "Innovation": 58.4
+ },
+ {
+   "Country": "Norway",
+   "Happiness": 7.554,
+   "Crime": 35.43,
+   "Days of Sunshine(2015)": 49,
+   "Birth per Woman": 1.53,
+   "Innovation": 51.9
+ },
+ {
+   "Country": "Canada",
+   "Happiness": 7.278,
+   "Crime": 39.67,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.48,
+   "Innovation": 53.9
+ },
+ {
+   "Country": "Finland",
+   "Happiness": 7.769,
+   "Crime": 23.32,
+   "Days of Sunshine(2015)": 69,
+   "Birth per Woman": 1.36,
+   "Innovation": 59.8
+ },
+ {
+   "Country": "Netherlands",
+   "Happiness": 7.488,
+   "Crime": 27.62,
+   "Days of Sunshine(2015)": 61,
+   "Birth per Woman": 1.57,
+   "Innovation": 61.4
+ },
+ {
+   "Country": "Sweden",
+   "Happiness": 7.343,
+   "Crime": 47.07,
+   "Days of Sunshine(2015)": 99,
+   "Birth per Woman": 1.74,
+   "Innovation": 63.7
+ },
+ {
+   "Country": "New Zealand",
+   "Happiness": 7.307,
+   "Crime": 40.93,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.67,
+   "Innovation": 49.6
+ },
+ {
+   "Country": "Australia",
+   "Happiness": 7.228,
+   "Crime": 41.36,
+   "Days of Sunshine(2015)": 114,
+   "Birth per Woman": 1.72,
+   "Innovation": 50.3
+ },
+ {
+   "Country": "Israel",
+   "Happiness": 7.139,
+   "Crime": 29.6,
+   "Days of Sunshine(2015)": 139,
+   "Birth per Woman": 3.09,
+   "Innovation": 57.4
+ },
+ {
+   "Country": "Costa Rica",
+   "Happiness": 7.167,
+   "Crime": 56.33,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.74,
+   "Innovation": 36.1
+ },
+ {
+   "Country": "Austria",
+   "Happiness": 7.246,
+   "Crime": 23.73,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.47,
+   "Innovation": 50.9
+ },
+ {
+   "Country": "Mexico",
+   "Happiness": 6.595,
+   "Crime": 53.97,
+   "Days of Sunshine(2015)": 105,
+   "Birth per Woman": 2.11,
+   "Innovation": 36.1
+ },
+ {
+   "Country": "United States",
+   "Happiness": 6.892,
+   "Crime": 47.2,
+   "Days of Sunshine(2015)": 113,
+   "Birth per Woman": 1.7,
+   "Innovation": 0
+ },
+ {
+   "Country": "Brazil",
+   "Happiness": 6.3,
+   "Crime": 68.88,
+   "Days of Sunshine(2015)": 94,
+   "Birth per Woman": 1.72,
+   "Innovation": 33.8
+ },
+ {
+   "Country": "Luxembourg",
+   "Happiness": 7.09,
+   "Crime": 33.39,
+   "Days of Sunshine(2015)": 67,
+   "Birth per Woman": 1.36,
+   "Innovation": 53.5
+ },
+ {
+   "Country": "Ireland",
+   "Happiness": 7.021,
+   "Crime": 45.43,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.72,
+   "Innovation": 56.1
+ },
+ {
+   "Country": "Belgium",
+   "Happiness": 6.923,
+   "Crime": 43.98,
+   "Days of Sunshine(2015)": 62,
+   "Birth per Woman": 1.6,
+   "Innovation": 50.2
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Happiness": 6.825,
+   "Crime": 15.7,
+   "Days of Sunshine(2015)": 75,
+   "Birth per Woman": 1.38,
+   "Innovation": 42.2
+ },
+ {
+   "Country": "United Kingdom",
+   "Happiness": 7.054,
+   "Crime": 43.71,
+   "Days of Sunshine(2015)": 59,
+   "Birth per Woman": 1.66,
+   "Innovation": 61.3
+ },
+ {
+   "Country": "Venezuela",
+   "Happiness": 4.707,
+   "Crime": 84.49,
+   "Days of Sunshine(2015)": 92,
+   "Birth per Woman": 2.25,
+   "Innovation": 0
+ },
+ {
+   "Country": "Singapore",
+   "Happiness": 6.262,
+   "Crime": 30.57,
+   "Days of Sunshine(2015)": 84,
+   "Birth per Woman": 1.12,
+   "Innovation": 58.4
+ },
+ {
+   "Country": "Panama",
+   "Happiness": 6.321,
+   "Crime": 47.19,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.44,
+   "Innovation": 31.5
+ },
+ {
+   "Country": "Germany",
+   "Happiness": 6.985,
+   "Crime": 34.81,
+   "Days of Sunshine(2015)": 67,
+   "Birth per Woman": 1.59,
+   "Innovation": 58.2
+ },
+ {
+   "Country": "Chile",
+   "Happiness": 6.444,
+   "Crime": 45.23,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.62,
+   "Innovation": 36.6
+ },
+ {
+   "Country": "Qatar",
+   "Happiness": 6.374,
+   "Crime": 13.26,
+   "Days of Sunshine(2015)": 143,
+   "Birth per Woman": 1.85,
+   "Innovation": 33.9
+ },
+ {
+   "Country": "France",
+   "Happiness": 6.592,
+   "Crime": 46.79,
+   "Days of Sunshine(2015)": 87,
+   "Birth per Woman": 1.86,
+   "Innovation": 54.2
+ },
+ {
+   "Country": "Argentina",
+   "Happiness": 6.086,
+   "Crime": 61.77,
+   "Days of Sunshine(2015)": 55,
+   "Birth per Woman": 2.25,
+   "Innovation": 31.9
+ },
+ {
+   "Country": "Czech Republic",
+   "Happiness": 6.852,
+   "Crime": 25.52,
+   "Days of Sunshine(2015)": 66,
+   "Birth per Woman": 1.75,
+   "Innovation": 49.4
+ },
+ {
+   "Country": "Uruguay",
+   "Happiness": 6.293,
+   "Crime": 53.81,
+   "Days of Sunshine(2015)": 91,
+   "Birth per Woman": 1.97,
+   "Innovation": 34.3
+ },
+ {
+   "Country": "Colombia",
+   "Happiness": 6.125,
+   "Crime": 54.79,
+   "Days of Sunshine(2015)": 82,
+   "Birth per Woman": 1.79,
+   "Innovation": 33
+ },
+ {
+   "Country": "Thailand",
+   "Happiness": 6.008,
+   "Crime": 40.48,
+   "Days of Sunshine(2015)": 98,
+   "Birth per Woman": 1.52,
+   "Innovation": 38.6
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Happiness": 6.375,
+   "Crime": 26.18,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.27,
+   "Innovation": 32.9
+ },
+ {
+   "Country": "Spain",
+   "Happiness": 6.354,
+   "Crime": 31.96,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.25,
+   "Innovation": 47.9
+ },
+ {
+   "Country": "Malta",
+   "Happiness": 6.726,
+   "Crime": 39.04,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.2,
+   "Innovation": 49
+ },
+ {
+   "Country": "Taiwan",
+   "Happiness": 6.446,
+   "Crime": 15.65,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 0,
+   "Innovation": 0
+ },
+ {
+   "Country": "Kuwait",
+   "Happiness": 6.021,
+   "Crime": 34.75,
+   "Days of Sunshine(2015)": 64,
+   "Birth per Woman": 2.08,
+   "Innovation": 34.6
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Happiness": 6.192,
+   "Crime": 73.19,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.71,
+   "Innovation": 0
+ },
+ {
+   "Country": "El Salvador",
+   "Happiness": 6.253,
+   "Crime": 67.96,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.02,
+   "Innovation": 24.9
+ },
+ {
+   "Country": "Guatemala",
+   "Happiness": 6.436,
+   "Crime": 57.83,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.83,
+   "Innovation": 25.1
+ },
+ {
+   "Country": "Uzbekistan",
+   "Happiness": 6.174,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 81,
+   "Birth per Woman": 2.41,
+   "Innovation": 0
+ },
+ {
+   "Country": "Slovakia",
+   "Happiness": 6.198,
+   "Crime": 29.22,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.58,
+   "Innovation": 42
+ },
+ {
+   "Country": "Japan",
+   "Happiness": 5.886,
+   "Crime": 20.66,
+   "Days of Sunshine(2015)": 76,
+   "Birth per Woman": 1.42,
+   "Innovation": 54.7
+ },
+ {
+   "Country": "South Korea",
+   "Happiness": 5.895,
+   "Crime": 28.02,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 0.94,
+   "Innovation": 56.6
+ },
+ {
+   "Country": "Ecuador",
+   "Happiness": 6.028,
+   "Crime": 50.9,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.41,
+   "Innovation": 26.6
+ },
+ {
+   "Country": "Bahrain",
+   "Happiness": 6.199,
+   "Crime": 29.29,
+   "Days of Sunshine(2015)": 139,
+   "Birth per Woman": 1.97,
+   "Innovation": 31.1
+ },
+ {
+   "Country": "Italy",
+   "Happiness": 6.223,
+   "Crime": 44.26,
+   "Days of Sunshine(2015)": 94,
+   "Birth per Woman": 1.28,
+   "Innovation": 46.3
+ },
+ {
+   "Country": "Bolivia",
+   "Happiness": 5.779,
+   "Crime": 52.93,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.69,
+   "Innovation": 0
+ },
+ {
+   "Country": "Moldova",
+   "Happiness": 5.529,
+   "Crime": 44.98,
+   "Days of Sunshine(2015)": 88,
+   "Birth per Woman": 1.26,
+   "Innovation": 35.5
+ },
+ {
+   "Country": "Paraguay",
+   "Happiness": 5.743,
+   "Crime": 49.6,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.41,
+   "Innovation": 27.1
+ },
+ {
+   "Country": "Kazakhstan",
+   "Happiness": 5.809,
+   "Crime": 62.02,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.86,
+   "Innovation": 31
+ },
+ {
+   "Country": "Slovenia",
+   "Happiness": 6.118,
+   "Crime": 21.07,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.6,
+   "Innovation": 45.3
+ },
+ {
+   "Country": "Lithuania",
+   "Happiness": 6.149,
+   "Crime": 33.06,
+   "Days of Sunshine(2015)": 72,
+   "Birth per Woman": 1.63,
+   "Innovation": 41.5
+ },
+ {
+   "Country": "Nicaragua",
+   "Happiness": 6.105,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 101,
+   "Birth per Woman": 2.39,
+   "Innovation": 0
+ },
+ {
+   "Country": "Peru",
+   "Happiness": 5.697,
+   "Crime": 68.15,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.23,
+   "Innovation": 32.9
+ },
+ {
+   "Country": "Belarus",
+   "Happiness": 5.323,
+   "Crime": 24.99,
+   "Days of Sunshine(2015)": 74,
+   "Birth per Woman": 1.4,
+   "Innovation": 32.1
+ },
+ {
+   "Country": "Poland",
+   "Happiness": 6.182,
+   "Crime": 28.5,
+   "Days of Sunshine(2015)": 62,
+   "Birth per Woman": 1.49,
+   "Innovation": 41.3
+ },
+ {
+   "Country": "Malaysia",
+   "Happiness": 5.339,
+   "Crime": 58.84,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.99,
+   "Innovation": 42.7
+ },
+ {
+   "Country": "Croatia",
+   "Happiness": 5.432,
+   "Crime": 24.71,
+   "Days of Sunshine(2015)": 91,
+   "Birth per Woman": 1.47,
+   "Innovation": 37.8
+ },
+ {
+   "Country": "Libya",
+   "Happiness": 5.525,
+   "Crime": 62.19,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.21,
+   "Innovation": 0
+ },
+ {
+   "Country": "Russia",
+   "Happiness": 5.648,
+   "Crime": 41.12,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.54,
+   "Innovation": 37.6
+ },
+ {
+   "Country": "Jamaica",
+   "Happiness": 5.89,
+   "Crime": 66.04,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.97,
+   "Innovation": 30.8
+ },
+ {
+   "Country": "North Cyprus",
+   "Happiness": 5.887953813,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 0,
+   "Innovation": 0
+ },
+ {
+   "Country": "Cyprus",
+   "Happiness": 6.046,
+   "Crime": 30.01,
+   "Days of Sunshine(2015)": 138,
+   "Birth per Woman": 1.32,
+   "Innovation": 48.3
+ },
+ {
+   "Country": "Algeria",
+   "Happiness": 5.211,
+   "Crime": 49.81,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 3.02,
+   "Innovation": 24
+ },
+ {
+   "Country": "Kosovo",
+   "Happiness": 5.680398498,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.98,
+   "Innovation": 0
+ },
+ {
+   "Country": "Turkmenistan",
+   "Happiness": 5.247,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.75,
+   "Innovation": 0
+ },
+ {
+   "Country": "Mauritius",
+   "Happiness": 5.888,
+   "Crime": 47.33,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.41,
+   "Innovation": 30.6
+ },
+ {
+   "Country": "Hong Kong",
+   "Happiness": 5.43,
+   "Crime": 20.7,
+   "Days of Sunshine(2015)": 81,
+   "Birth per Woman": 1.04,
+   "Innovation": 55.5
+ },
+ {
+   "Country": "Estonia",
+   "Happiness": 5.893,
+   "Crime": 23.14,
+   "Days of Sunshine(2015)": 75,
+   "Birth per Woman": 1.7,
+   "Innovation": 50
+ },
+ {
+   "Country": "Indonesia",
+   "Happiness": 5.192,
+   "Crime": 45.84,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.29,
+   "Innovation": 29.7
+ },
+ {
+   "Country": "Vietnam",
+   "Happiness": 5.175,
+   "Crime": 45.35,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.06,
+   "Innovation": 38.8
+ },
+ {
+   "Country": "Turkey",
+   "Happiness": 5.373,
+   "Crime": 39.49,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.06,
+   "Innovation": 36.9
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Happiness": 5.261,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 0,
+   "Innovation": 28.4
+ },
+ {
+   "Country": "Nigeria",
+   "Happiness": 5.265,
+   "Crime": 63.77,
+   "Days of Sunshine(2015)": 99,
+   "Birth per Woman": 5.34,
+   "Innovation": 23.9
+ },
+ {
+   "Country": "Bhutan",
+   "Happiness": 5.082,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.96,
+   "Innovation": 0
+ },
+ {
+   "Country": "Azerbaijan",
+   "Happiness": 5.208,
+   "Crime": 31.61,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.69,
+   "Innovation": 30.2
+ },
+ {
+   "Country": "Pakistan",
+   "Happiness": 5.653,
+   "Crime": 44.08,
+   "Days of Sunshine(2015)": 127,
+   "Birth per Woman": 3.47,
+   "Innovation": 25.4
+ },
+ {
+   "Country": "Jordan",
+   "Happiness": 4.906,
+   "Crime": 40.83,
+   "Days of Sunshine(2015)": 71,
+   "Birth per Woman": 2.68,
+   "Innovation": 29.6
+ },
+ {
+   "Country": "Montenegro",
+   "Happiness": 5.523,
+   "Crime": 41.18,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.75,
+   "Innovation": 37.7
+ },
+ {
+   "Country": "China",
+   "Happiness": 5.191,
+   "Crime": 31.83,
+   "Days of Sunshine(2015)": 100,
+   "Birth per Woman": 1.7,
+   "Innovation": 54.8
+ },
+ {
+   "Country": "Zambia",
+   "Happiness": 4.107,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 94,
+   "Birth per Woman": 4.56,
+   "Innovation": 20.4
+ },
+ {
+   "Country": "Romania",
+   "Happiness": 6.07,
+   "Crime": 27.64,
+   "Days of Sunshine(2015)": 84,
+   "Birth per Woman": 1.8,
+   "Innovation": 36.8
+ },
+ {
+   "Country": "Serbia",
+   "Happiness": 5.603,
+   "Crime": 37.41,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.5,
+   "Innovation": 35.7
+ },
+ {
+   "Country": "Portugal",
+   "Happiness": 5.693,
+   "Crime": 29.63,
+   "Days of Sunshine(2015)": 102,
+   "Birth per Woman": 1.46,
+   "Innovation": 44.6
+ },
+ {
+   "Country": "Latvia",
+   "Happiness": 5.94,
+   "Crime": 36.95,
+   "Days of Sunshine(2015)": 71,
+   "Birth per Woman": 1.59,
+   "Innovation": 43.2
+ },
+ {
+   "Country": "Philippines",
+   "Happiness": 5.631,
+   "Crime": 42.16,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.52,
+   "Innovation": 36.2
+ },
+ {
+   "Country": "Morocco",
+   "Happiness": 5.208,
+   "Crime": 48.69,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.39,
+   "Innovation": 31.6
+ },
+ {
+   "Country": "Macedonia",
+   "Happiness": 5.230480087,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 91,
+   "Birth per Woman": 1.49,
+   "Innovation": 35.3
+ },
+ {
+   "Country": "Mozambique",
+   "Happiness": 4.466,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 4.8,
+   "Innovation": 22.9
+ },
+ {
+   "Country": "Albania",
+   "Happiness": 4.719,
+   "Crime": 39.52,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.6,
+   "Innovation": 30.3
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Happiness": 5.386,
+   "Crime": 43.03,
+   "Days of Sunshine(2015)": 73,
+   "Birth per Woman": 1.26,
+   "Innovation": 31.4
+ },
+ {
+   "Country": "Lesotho",
+   "Happiness": 3.802,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 3.12,
+   "Innovation": 0
+ },
+ {
+   "Country": "Dominican Republic",
+   "Happiness": 5.425,
+   "Crime": 61.16,
+   "Days of Sunshine(2015)": 119,
+   "Birth per Woman": 2.33,
+   "Innovation": 28.6
+ },
+ {
+   "Country": "Laos",
+   "Happiness": 4.796,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 0,
+   "Innovation": 0
+ },
+ {
+   "Country": "Mongolia",
+   "Happiness": 5.285,
+   "Crime": 57.97,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.9,
+   "Innovation": 36.3
+ },
+ {
+   "Country": "Greece",
+   "Happiness": 5.287,
+   "Crime": 40.32,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.36,
+   "Innovation": 38.9
+ },
+ {
+   "Country": "Lebanon",
+   "Happiness": 5.197,
+   "Crime": 43.36,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.09,
+   "Innovation": 28.5
+ },
+ {
+   "Country": "Hungary",
+   "Happiness": 5.758,
+   "Crime": 35.08,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.57,
+   "Innovation": 44.5
+ },
+ {
+   "Country": "Honduras",
+   "Happiness": 5.86,
+   "Crime": 76.11,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.43,
+   "Innovation": 25.5
+ },
+ {
+   "Country": "Tajikistan",
+   "Happiness": 5.467,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 3.58,
+   "Innovation": 26.4
+ },
+ {
+   "Country": "Tunisia",
+   "Happiness": 4.461,
+   "Crime": 41.88,
+   "Days of Sunshine(2015)": 66,
+   "Birth per Woman": 2.19,
+   "Innovation": 32.8
+ },
+ {
+   "Country": "Palestinian Territories",
+   "Happiness": 0,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 0,
+   "Innovation": 0
+ },
+ {
+   "Country": "Bangladesh",
+   "Happiness": 4.456,
+   "Crime": 63.94,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.01,
+   "Innovation": 23.3
+ },
+ {
+   "Country": "Iran",
+   "Happiness": 4.548,
+   "Crime": 49.25,
+   "Days of Sunshine(2015)": 117,
+   "Birth per Woman": 0,
+   "Innovation": 0
+ },
+ {
+   "Country": "Ukraine",
+   "Happiness": 4.332,
+   "Crime": 48.85,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.27,
+   "Innovation": 37.4
+ },
+ {
+   "Country": "Iraq",
+   "Happiness": 4.437,
+   "Crime": 47.78,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 3.6,
+   "Innovation": 0
+ },
+ {
+   "Country": "South Africa",
+   "Happiness": 4.722,
+   "Crime": 77.49,
+   "Days of Sunshine(2015)": 97,
+   "Birth per Woman": 2.38,
+   "Innovation": 34
+ },
+ {
+   "Country": "Ghana",
+   "Happiness": 4.996,
+   "Crime": 48.97,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 3.83,
+   "Innovation": 0
+ },
+ {
+   "Country": "Zimbabwe",
+   "Happiness": 3.663,
+   "Crime": 57.47,
+   "Days of Sunshine(2015)": 94,
+   "Birth per Woman": 3.55,
+   "Innovation": 0
+ },
+ {
+   "Country": "Liberia",
+   "Happiness": 3.975,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 4.26,
+   "Innovation": 0
+ },
+ {
+   "Country": "India",
+   "Happiness": 4.015,
+   "Crime": 43.32,
+   "Days of Sunshine(2015)": 100,
+   "Birth per Woman": 2.2,
+   "Innovation": 36.6
+ },
+ {
+   "Country": "Sudan",
+   "Happiness": 4.042187306,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 4.36,
+   "Innovation": 0
+ },
+ {
+   "Country": "Haiti",
+   "Happiness": 3.597,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.89,
+   "Innovation": 0
+ },
+ {
+   "Country": "Congo (Kinshasa)",
+   "Happiness": 4.179598798,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 0,
+   "Innovation": 0
+ },
+ {
+   "Country": "Nepal",
+   "Happiness": 4.913,
+   "Crime": 34.56,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.87,
+   "Innovation": 24.9
+ },
+ {
+   "Country": "Ethiopia",
+   "Happiness": 4.286,
+   "Crime": 49.21,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 4.17,
+   "Innovation": 0
+ },
+ {
+   "Country": "Sierra Leone",
+   "Happiness": 4.374,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 83,
+   "Birth per Woman": 4.19,
+   "Innovation": 0
+ },
+ {
+   "Country": "Mauritania",
+   "Happiness": 4.49,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 4.52,
+   "Innovation": 0
+ },
+ {
+   "Country": "Kenya",
+   "Happiness": 4.509,
+   "Crime": 61.66,
+   "Days of Sunshine(2015)": 122,
+   "Birth per Woman": 3.42,
+   "Innovation": 31.1
+ },
+ {
+   "Country": "Armenia",
+   "Happiness": 4.559,
+   "Crime": 21.6,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 1.76,
+   "Innovation": 34
+ },
+ {
+   "Country": "Botswana",
+   "Happiness": 3.488,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.85,
+   "Innovation": 27.4
+ },
+ {
+   "Country": "Myanmar",
+   "Happiness": 4.308250036,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.14,
+   "Innovation": 0
+ },
+ {
+   "Country": "Georgia",
+   "Happiness": 4.519,
+   "Crime": 20.21,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.07,
+   "Innovation": 37
+ },
+ {
+   "Country": "Malawi",
+   "Happiness": 3.41,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 116,
+   "Birth per Woman": 4.12,
+   "Innovation": 23
+ },
+ {
+   "Country": "Sri Lanka",
+   "Happiness": 4.366,
+   "Crime": 40.22,
+   "Days of Sunshine(2015)": 109,
+   "Birth per Woman": 2.2,
+   "Innovation": 28.5
+ },
+ {
+   "Country": "Cameroon",
+   "Happiness": 5.044,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 4.52,
+   "Innovation": 23.9
+ },
+ {
+   "Country": "Bulgaria",
+   "Happiness": 5.011,
+   "Crime": 38.5,
+   "Days of Sunshine(2015)": 88,
+   "Birth per Woman": 1.57,
+   "Innovation": 40.3
+ },
+ {
+   "Country": "Egypt",
+   "Happiness": 4.166,
+   "Crime": 46.92,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 3.3,
+   "Innovation": 27.5
+ },
+ {
+   "Country": "Yemen",
+   "Happiness": 3.38,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 3.71,
+   "Innovation": 14.5
+ },
+ {
+   "Country": "Angola",
+   "Happiness": 3.737727792,
+   "Crime": 64.97,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 5.45,
+   "Innovation": 0
+ },
+ {
+   "Country": "Mali",
+   "Happiness": 4.39,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 5.81,
+   "Innovation": 24
+ },
+ {
+   "Country": "Congo (Brazzaville)",
+   "Happiness": 4.713798145,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 0,
+   "Innovation": 0
+ },
+ {
+   "Country": "Uganda",
+   "Happiness": 4.189,
+   "Crime": 59,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 4.84,
+   "Innovation": 25.6
+ },
+ {
+   "Country": "Senegal",
+   "Happiness": 4.681,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 125,
+   "Birth per Woman": 4.57,
+   "Innovation": 26.8
+ },
+ {
+   "Country": "Gabon",
+   "Happiness": 4.799,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 61,
+   "Birth per Woman": 3.95,
+   "Innovation": 0
+ },
+ {
+   "Country": "Niger",
+   "Happiness": 4.628,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 71,
+   "Birth per Woman": 6.85,
+   "Innovation": 18.1
+ },
+ {
+   "Country": "Cambodia",
+   "Happiness": 4.7,
+   "Crime": 50.66,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 2.48,
+   "Innovation": 26.6
+ },
+ {
+   "Country": "Tanzania",
+   "Happiness": 3.231,
+   "Crime": 58.95,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 4.84,
+   "Innovation": 0
+ },
+ {
+   "Country": "Madagascar",
+   "Happiness": 3.933,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 4.03,
+   "Innovation": 22.4
+ },
+ {
+   "Country": "Central African Republic",
+   "Happiness": 3.083,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 4.67,
+   "Innovation": 0
+ },
+ {
+   "Country": "Chad",
+   "Happiness": 4.35,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 68,
+   "Birth per Woman": 5.67,
+   "Innovation": 0
+ },
+ {
+   "Country": "Guinea",
+   "Happiness": 4.534,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 102,
+   "Birth per Woman": 4.64,
+   "Innovation": 19.5
+ },
+ {
+   "Country": "Ivory Coast",
+   "Happiness": 4.944,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 0,
+   "Innovation": 0
+ },
+ {
+   "Country": "Burkina Faso",
+   "Happiness": 4.587,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 5.13,
+   "Innovation": 23.3
+ },
+ {
+   "Country": "Afghanistan",
+   "Happiness": 3.203,
+   "Crime": 76.23,
+   "Days of Sunshine(2015)": 124,
+   "Birth per Woman": 4.35,
+   "Innovation": 0
+ },
+ {
+   "Country": "Rwanda",
+   "Happiness": 3.334,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 4.01,
+   "Innovation": 27.4
+ },
+ {
+   "Country": "Benin",
+   "Happiness": 4.883,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 53,
+   "Birth per Woman": 4.78,
+   "Innovation": 0
+ },
+ {
+   "Country": "Syria",
+   "Happiness": 3.462,
+   "Crime": 66.46,
+   "Days of Sunshine(2015)": 98,
+   "Birth per Woman": 2.77,
+   "Innovation": 0
+ },
+ {
+   "Country": "Burundi",
+   "Happiness": 3.775,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 5.34,
+   "Innovation": 0
+ },
+ {
+   "Country": "Togo",
+   "Happiness": 4.085,
+   "Crime": 0,
+   "Days of Sunshine(2015)": 0,
+   "Birth per Woman": 4.27,
+   "Innovation": 18.5
+ }
+];
